@@ -1,1 +1,2 @@
 name: El worklfow de aprobacion del equipo
+on: pull_request_review
